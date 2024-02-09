@@ -1,0 +1,9 @@
+IP DO FTP: ftp://195.35.41.171
+
+HOST FTP: ftp://wztv4k.com
+
+USER FTP: u430790409
+
+PORT FTP: 21
+
+PASS: adminrkWztv4k-2023
