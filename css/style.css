@@ -1,0 +1,15 @@
+.lbModernize {
+	background-color: #03251c;
+	text-align: center;
+	font-size: 18pt;
+	color: #00ffae;
+}
+.lbModernize2 {
+	background-color: #00ffae;
+	text-align: center;
+	font-size: 14pt;
+	padding: 3px 10px;
+	color: #03251c;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
